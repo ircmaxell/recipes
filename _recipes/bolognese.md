@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Bolognese Saice"
+title:  "Bolognese Sauce"
 image: 
 tags: diner, pasta, sauce
 
