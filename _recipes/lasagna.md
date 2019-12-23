@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Lasagna"
-image: 
+image: lasagna.jpg
 tags: diner, dutch oven
 
 ingredients:

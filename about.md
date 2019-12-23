@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Chowdown, a plain text recipe database for hackers
+Anthony Ferrara's personal recipe database...
