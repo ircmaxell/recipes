@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Shellfish Pasta Sauce"
 image:
-tags: diner, beef, fancy
+tags: diner, shellfish, christmas, fish, clams, pasta
 
 ingredients:
 - 3 tbsp extra-virgin olive oil
