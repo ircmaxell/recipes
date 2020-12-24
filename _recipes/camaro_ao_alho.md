@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title:  "Shellfish Pasta Sauce"
+title:  "Camaro ao Alho"
 image:
-tags: diner, shellfish, christmas, fish, clams, pasta
+tags: shrimp, garlic, side
 
 ingredients:
 - 2 lbs medium raw shrimp, peeled and deveined
